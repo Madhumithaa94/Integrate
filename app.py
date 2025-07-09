@@ -4,7 +4,7 @@ import os
 import datetime
 import json
 from gtts import gTTS
-from mt_module.models.huggingface_model import Translator
+from huggingface_model import Translator
 
 # Setup
 st.set_page_config(page_title="StreamLingo Demo", layout="centered")

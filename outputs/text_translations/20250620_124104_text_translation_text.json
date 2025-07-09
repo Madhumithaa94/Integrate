@@ -1,0 +1,8 @@
+{
+  "timestamp": "20250620_124104",
+  "source_language": "en",
+  "target_language": "zh",
+  "original_text": "This application is designed to transcribe speech and translate text between English and Chinese using advanced AI models. Users can upload audio files in various formats and receive a detailed transcript with word-level confidence scores.",
+  "translation": "该应用程序旨在使用先进的AI模型在英语和中文之间进行语音转录和文本翻译.用户可以在各种格式上传音频文件,并获得详细的语音转录,并获得单词级别的信任分数.",
+  "detected_language": "en"
+}

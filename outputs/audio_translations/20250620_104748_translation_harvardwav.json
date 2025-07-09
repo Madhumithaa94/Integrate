@@ -1,0 +1,53 @@
+{
+  "timestamp": "20250620_104748",
+  "filename": "harvard.wav",
+  "source_language": "en",
+  "target_language": "zh",
+  "full_transcript": " The stale smell of old beer lingers. It takes heat to bring out the odor. A cold dip restores health and zest. A salt pickle tastes fine with ham. Tacos al pastor are my favorite. A zestful food is the hot cross bun.",
+  "full_translation": "老酒的臭味还会留下来.需要热量才能把臭味带出来.冷可以恢复健康和热情.菜和火腿的味道很好.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " The stale smell of old beer lingers.",
+      "confidence": 0,
+      "words": []
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " It takes heat to bring out the odor.",
+      "confidence": 0,
+      "words": []
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": " A cold dip restores health and zest.",
+      "confidence": 0,
+      "words": []
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": " A salt pickle tastes fine with ham.",
+      "confidence": 0,
+      "words": []
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": " Tacos al pastor are my favorite.",
+      "confidence": 0,
+      "words": []
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": " A zestful food is the hot cross bun.",
+      "confidence": 0,
+      "words": []
+    }
+  ],
+  "word_details": []
+}
