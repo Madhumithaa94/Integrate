@@ -1,6 +1,5 @@
 whisper
 transformers
 torch
-sentencepiece
 gtts
 streamlit
