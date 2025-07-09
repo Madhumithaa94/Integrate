@@ -1,13 +1,6 @@
+whisper
 transformers
 torch
 sentencepiece
-openai-whisper
+gtts
 streamlit
-whisper-timestamped
-pandas
-PyPDF2
-python-docx
-nltk
-pytest
-split
-jieba
