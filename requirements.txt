@@ -1,9 +1,9 @@
-streamlit
-whisper
+openai-whisper
 transformers
-gtts
 torch
+gtts
 sentencepiece
-scipy
+streamlit
+scikit-learn
 numpy
-ffmpeg-python
+scipy
