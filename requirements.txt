@@ -1,6 +1,8 @@
+streamlit
 whisper
 transformers
-torch
-sentencepiece
 gtts
-streamlit
+sentencepiece
+numpy
+scipy
+torch
